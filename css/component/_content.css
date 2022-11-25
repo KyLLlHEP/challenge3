@@ -1,0 +1,22 @@
+.section {
+    padding-left: 12px;
+    padding-top: 33px;
+    display: flex;
+    justify-content: center;
+    row-gap: 10px;
+    column-gap: 20px;
+    margin: 0 auto;
+}
+
+.responsive {
+    
+
+}
+
+h2 {
+padding-top: 20px;
+width: 10px;
+display: inline;
+
+
+}
